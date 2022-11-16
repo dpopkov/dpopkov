@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dpopkov&include_all_commits=true&show_icons=true&hide=stars,prs,issues,contribs)
 
+<!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpopkov&layout=compact)
+-->
