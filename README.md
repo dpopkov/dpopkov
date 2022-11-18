@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpopkov&layout=compact)
 -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpopkov&include_all_commits=true&show_icons=true&hide=stars,prs,contribs&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpopkov&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpopkov&include_all_commits=true&show_icons=true&hide=stars,prs,issues,contribs&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpopkov&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
