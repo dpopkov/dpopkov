@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, Spring and Angular.
+- 🌱 I’m currently learning Java, Spring and Angular. One page CV can be downloaded from here: [Russian](https://github.com/dpopkov/dpopkov/blob/8ddb691efc8c12047e961125c3d58e55163ec94e/Denis_Popkov_Java_2022.pdf)/[English](https://github.com/dpopkov/dpopkov/blob/8ddb691efc8c12047e961125c3d58e55163ec94e/Denis_Popkov_Java_2022_en.pdf)
 
 <!--
 **dpopkov/dpopkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
