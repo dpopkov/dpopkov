@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, Spring and Angular.
+- 🌱 I’m currently learning Kotlin, JavaFX, Spring and React.
 
 <!--
 **dpopkov/dpopkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
